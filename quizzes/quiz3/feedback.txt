@@ -1,0 +1,14 @@
+Feedback
+a) 1/1
+
+b) 1/1
+
+c) 2/2
+
+d) 2/2
+
+e) 1/2 group delay too big based on spec
+
+f) 0/2
+Points
+7 / 10

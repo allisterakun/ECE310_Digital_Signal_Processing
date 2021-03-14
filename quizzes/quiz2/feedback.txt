@@ -1,0 +1,8 @@
+Feedback
+1a) poles/zeros in conj pairs bc real impulse response, missed pole at 3pi/5 -1
+
+1b) not answered
+
+1d) pole on UC means not stable
+Points
+7 / 10

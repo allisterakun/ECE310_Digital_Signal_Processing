@@ -1,0 +1,5 @@
+Feedback
+-1 bc this is not an LTI system
+-1 bc you want to do the filtering before the upsampling, not the other way around
+Points
+8 / 10
